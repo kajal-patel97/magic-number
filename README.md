@@ -1,8 +1,8 @@
 
 # How to run the game
-###prompt the user for input
-###generate a random number using a python library (should be between 0-10)
-###check the number against the magic number
+### prompt the user for input
+### generate a random number using a python library (should be between 0-10)
+### check the number against the magic number
 ### let the user know if he or she won
     ####  if the guess was above or under
 
